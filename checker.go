@@ -1,10 +1,10 @@
 package main
 
 import (
-	"brainwallet/db"
-	"brainwallet/model"
 	"fmt"
 	"github.com/bytedance/sonic"
+	"github.com/sneiko/go-brainwalle/db"
+	"github.com/sneiko/go-brainwalle/model"
 	"io"
 	"log"
 	"net/http"

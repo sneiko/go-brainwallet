@@ -1,7 +1,7 @@
 package db
 
 import (
-	"brainwallet/model"
+	"github.com/sneiko/go-brainwalle/model"
 	"log"
 	"os"
 	"sync"
